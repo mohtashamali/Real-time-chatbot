@@ -1,0 +1,11 @@
+langchain
+langgraph
+openai
+groq
+claude
+gradio
+gtts
+speechrecognition
+pydub
+opencv-python
+python-dotenv
