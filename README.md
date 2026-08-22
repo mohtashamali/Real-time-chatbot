@@ -1,4 +1,4 @@
-# 🤖 AI Agent – Your Voice-Driven, Camera-Aware Chat Assistant
+# 🤖 Real time Chat bot – Your Voice-Driven, Camera-Aware Chat Assistant
 An intelligent AI-powered assistant that listens to your voice via microphone, watches via webcam, and responds using a powerful LLM backend. This project uses **Groq + Claude + LangChain + LangGraph**, integrates with **Gradio** for UI, and speaks responses using **gTTS (Google Text-to-Speech)**.
 
 ---
